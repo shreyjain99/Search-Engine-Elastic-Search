@@ -1,4 +1,10 @@
-# Search-Engine-Elastic-Search
+<h2 align= "center"><em>Search Engine Elastic Search</em></h2>
+
+<div align="center">
+  <img height="400" src="https://github.com/shreyjain99/Not-Fake/blob/main/src%20files/coverimg.png"/>
+</div>
+
+<hr width="100%" size="2">
 
 <body>
     <h1>Search Engine Project Overview</h1>
